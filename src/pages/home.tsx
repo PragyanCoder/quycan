@@ -439,13 +439,13 @@ export function HomePage() {
             <div className="flex items-center justify-center mb-4">
               <MapPin className="h-5 w-5 md:h-6 md:w-6 text-blue-600 mr-2" />
               <p className="text-base md:text-lg text-gray-800 font-medium">
-                IT 14-15, EPIP, Sitapura Industrial Area,<br />
-                Jaipur, Rajasthan, 302022
+                Parawan Dhanupur Allahabad <br />
+                221503 Uttar Pradesh India
               </p>
             </div>
             <div className="mt-8">
               <Button size="lg" asChild>
-                <a href="https://t.me/dolphinclouds" target="_blank" rel="noopener noreferrer">
+                <a href="https://t.me/QuycanSoftware" target="_blank" rel="noopener noreferrer">
                   Contact Us on Telegram
                 </a>
               </Button>
